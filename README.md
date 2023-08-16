@@ -4,6 +4,8 @@
 
 In collaboration with the Calgary Drop-In Centre, Myself and my team embarked on a transformative project to optimize inventory management and resource allocation. The Donation Centre's role as a hub for supplying essential items to various programs and partners underscored the urgency to enhance donation tracking, analysis, and visualization. The goal was clear: create a robust dashboard that provides real-time insights, empowers data-driven decisions, and maximizes the impact of every resource.
 
+Link to Dashbaord: https://mavenanalytics.io/project/8223
+
 # Problem Statement
 
 The existing inventory management system posed challenges in accurately tracking incoming and outgoing donations. These discrepancies hindered efficient distribution and the ability to forecast shortages of critical supplies. Our objective was to bridge this gap by developing a sophisticated dashboard that not only addressed current limitations but also provided an intuitive tool for the team to optimize operations.
